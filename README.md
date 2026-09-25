@@ -1,6 +1,3 @@
-# PharmacyManagementSystem-PHP
-A complete Pharmacy management app to manage your stock , sales and generates reciept 
-
 ## Pharmacy Management System
 A robust Pharmacy Management Application built using native PHP, MySQL, and styled with Bootstrap 5. This system is designed to streamline inventory control, automate sales processing, and secure user access through strict role-based permissions. It helps pharmacies reduce manual errors, track stock levels in real time, and maintain optimal operational efficiency.
 ------------------------------
