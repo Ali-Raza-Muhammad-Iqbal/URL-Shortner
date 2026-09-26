@@ -445,9 +445,9 @@ If you intend to use or distribute this project commercially, please review and 
 
 ## 👨‍💻 Author
 
-**Your Name**
+**ALI RAZA**
 
-GitHub: `https://github.com/your-username`
+GitHub: `https://github.com/Ali-Raza-Muhammad-Iqbal`
 
 ---
 
